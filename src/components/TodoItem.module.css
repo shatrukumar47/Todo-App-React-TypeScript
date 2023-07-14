@@ -1,0 +1,31 @@
+.todoItem{
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid rgb(243, 163, 16);
+}
+
+.todoItem > div{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 10px;
+}
+
+.todoItem  h2{
+    color: rgb(243, 163, 16);
+}
+.todoItem  p{
+    width: 160px;
+    border-radius: 10px;
+    background: white;
+    padding: 5px;
+}
+.todoItem > input{
+    width: 30px;
+    height: 30px;
+    accent-color: rgb(243, 163, 16);
+    color: white;
+}
