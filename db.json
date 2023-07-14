@@ -3,11 +3,11 @@
     {
       "id": 1,
       "title": "JS",
-      "status": true
+      "status": false
     },
     {
       "title": "Task-1",
-      "status": true,
+      "status": false,
       "id": 2
     },
     {
@@ -17,17 +17,17 @@
     },
     {
       "title": "TypeScript",
-      "status": false,
+      "status": true,
       "id": 4
     },
     {
       "title": "CSS3",
-      "status": false,
+      "status": true,
       "id": 5
     },
     {
       "title": "React",
-      "status": false,
+      "status": true,
       "id": 6
     },
     {
